@@ -1,5 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Nightmare Campus","order":1,"parentId":0,"scrollX":451,"scrollY":312},
-{"id":2,"expanded":false,"name":"School Hallway","order":2,"parentId":1,"scrollX":1314,"scrollY":320,"quick":false}
+{"id":1,"expanded":false,"name":"Nightmare Campus","order":1,"parentId":0,"scrollX":627,"scrollY":344.5},
+{"id":2,"expanded":true,"name":"School Hallway","order":2,"parentId":1,"scrollX":1538,"scrollY":352.5,"quick":false},
+{"id":3,"expanded":false,"name":"womens_bathroom","order":3,"parentId":2,"scrollX":627,"scrollY":344.5,"quick":false}
 ]

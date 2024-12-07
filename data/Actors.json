@@ -1,8 +1,8 @@
 [
 null,
 {"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":8,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Micah","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[1,0,0,9,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Pavitra","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[31,0,65,5,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Murray","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[31,0,0,5,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sarang","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":5,"equips":[1,0,0,9,0],"faceIndex":0,"faceName":"Actor1","traits":[{"code":41,"dataId":2,"value":1},{"code":43,"dataId":33,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Pavitra","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor2_5","characterIndex":4,"characterName":"Actor2","classId":1,"equips":[31,0,65,5,0],"faceIndex":4,"faceName":"Actor2","traits":[{"code":41,"dataId":2,"value":1},{"code":43,"dataId":20,"value":1},{"code":31,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Murray","nickname":"DeathKILLER","note":"","profile":"MURRAY "},
+{"id":4,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":3,"equips":[31,0,0,5,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sarang","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[7,0,0,20,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Party Member","nickname":"","note":"","profile":""}
 ]
