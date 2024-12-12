@@ -1,16 +1,8 @@
 [
 null,
-<<<<<<< HEAD
-{"id":1,"battlerName":"jjCultist_male","characterIndex":0,"characterName":"jjCultist_male","classId":5,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"jjCultist_male","traits":[],"initialLevel":1,"maxLevel":99,"name":"Micah","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"jjCultist_male","characterIndex":0,"characterName":"jjCultist_male","classId":5,"equips":[49,0,0,3,80],"faceIndex":0,"faceName":"jjCultist_male","traits":[{"code":43,"dataId":235,"value":1},{"code":51,"dataId":6,"value":1},{"code":41,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Micah","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"rogue","characterIndex":0,"characterName":"rogue","classId":8,"equips":[46,0,0,9,79],"faceIndex":0,"faceName":"rogue","traits":[{"code":41,"dataId":2,"value":1},{"code":43,"dataId":206,"value":1},{"code":43,"dataId":209,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Pavitra","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"Actor2_5","characterIndex":4,"characterName":"Actor2","classId":1,"equips":[4,0,54,10,0],"faceIndex":4,"faceName":"Actor2","traits":[{"code":41,"dataId":2,"value":1},{"code":43,"dataId":20,"value":1},{"code":31,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Murray","nickname":"DeathKILLER","note":"","profile":"MURRAY "},
 {"id":4,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,82],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sarang","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"SF_Actor1_1","characterIndex":0,"characterName":"SF_Actor3","classId":4,"equips":[22,30,56,17,0],"faceIndex":0,"faceName":"SF_Actor3","traits":[{"code":31,"dataId":1,"value":1},{"code":43,"dataId":172,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Harry","nickname":"","note":"","profile":""}
-=======
-{"id":1,"battlerName":"jjCultist_male","characterIndex":0,"characterName":"jjCultist_male","classId":8,"equips":[49,0,0,3,0],"faceIndex":0,"faceName":"jjCultist_male","traits":[{"code":51,"dataId":6,"value":1},{"code":43,"dataId":235,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Micah","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":5,"equips":[1,0,0,9,0],"faceIndex":0,"faceName":"Actor1","traits":[{"code":41,"dataId":2,"value":1},{"code":43,"dataId":33,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Pavitra","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Actor2_5","characterIndex":4,"characterName":"Actor2","classId":1,"equips":[31,0,65,5,0],"faceIndex":4,"faceName":"Actor2","traits":[{"code":41,"dataId":2,"value":1},{"code":43,"dataId":20,"value":1},{"code":31,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Murray","nickname":"DeathKILLER","note":"","profile":"MURRAY "},
-{"id":4,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":3,"equips":[31,0,0,5,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sarang","nickname":"","note":"","profile":""},
-{"id":5,"battlerName":"SF_Actor1_1","characterIndex":0,"characterName":"SF_Actor3","classId":1,"equips":[7,0,0,20,0],"faceIndex":0,"faceName":"SF_Actor3","traits":[{"code":31,"dataId":1,"value":1},{"code":43,"dataId":172,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Harry","nickname":"","note":"","profile":""}
->>>>>>> micah-changes
 ]
