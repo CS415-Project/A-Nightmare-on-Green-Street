@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Nightmare Campus 1","order":1,"parentId":0,"scrollX":1088,"scrollY":312},
+{"id":1,"expanded":true,"name":"Nightmare Campus 1","order":1,"parentId":0,"scrollX":1086.857142857143,"scrollY":521.1428571428571},
 {"id":2,"expanded":false,"name":"School Hallway","order":2,"parentId":1,"scrollX":2124,"scrollY":320,"quick":false},
 {"id":3,"expanded":false,"name":"womens_bathroom","order":3,"parentId":2,"scrollX":550.8,"scrollY":366,"quick":false},
 {"id":4,"expanded":false,"name":"Steam tunnels","order":6,"parentId":7,"scrollX":601,"scrollY":610,"quick":false},
